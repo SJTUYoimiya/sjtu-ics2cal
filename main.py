@@ -1,4 +1,4 @@
-from utils.writer import *
+from utils.course import *
 
 def main():
     year = 2024

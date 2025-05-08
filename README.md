@@ -14,7 +14,7 @@
     term = 2
     ```
 
-4. 运行 `python main.py`，若是首次运行，需要扫描命令行中的二维码登录，登录后会在 `scripts/` 目录下生成 `cookies.json` 文件，存储用于登录 jAccount 认证的 `JAAuthCooike` 信息
+4. 运行 `python main.py`，若是首次运行，需要扫描命令行中的二维码登录，登录后会在当前目录下生成 `cookies.json` 文件，存储用于登录 jAccount 认证的 `JAAuthCooike` 信息
 5. 程序会在当前目录下生成 `cal.ics` 文件，导入到日历软件（如 Apple 日历）中即可
 
 ## 待更新 - 调休
